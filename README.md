@@ -15,3 +15,9 @@ Both computers are really famous and they are both modern computers for their ti
 The processing speed for the Macbook Air is 1.1GHz dual-core Intel Core i3, Turbo Boost up to 3.2GHz, with 4MB L3 cache. The processing speed for the Atari ST is 68000 @ 8+ MHz.
 
 The graphics card for the Macbook Air is The Apple M1 GPU is an integrated graphics card offering 8 cores. 
+
+The specs a Macbook air have are 16GB unified memory. 512GB, 1TB, or 2TB SSD. While Atari ST has a CPU size of 	68000 @ 8+ MHz. and a memory size of 512 KB to 4 MB
+
+The new Macbook air has 8GB RAM, 256GB SSD Storage. On the other hand, the Atari ST allows just over 1 GB.
+
+In conclusion, both computers have changed the way computera are in their generation. I really like the macbook air and it is my favorite computer.
